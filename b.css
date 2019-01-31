@@ -1,0 +1,30 @@
+
+form {
+  width:50%;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 500px;
+  background-color : white;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+input
+{
+ border:none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 8px;
+  background: #f1f1f1;
+}
+
+p
+{   margin-left:500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+* {
+  box-sizing: border-box;
+}
